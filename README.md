@@ -29,6 +29,7 @@ motto: "Ship it, measure it, improve it."
 
 - 🔭 Building **full-stack platforms** with modern frameworks and clean architecture
 - 🧠 Deep into **Machine Learning pipelines** — XGBoost, LightGBM, SHAP, Prophet
+- 🏥 Developing **deep learning medical diagnostics** — CNNs, Transfer Learning, Grad-CAM
 - 🏗️ Designing **distributed multi-agent systems** and real-time architectures
 - 🐳 Everything runs in **Docker** — containerized, reproducible, production-ready
 - 🕷️ Building **web scrapers and data pipelines** with Selenium, BeautifulSoup, Scrapy
@@ -69,15 +70,19 @@ motto: "Ship it, measure it, improve it."
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**Data, ML and Scraping**
+**Data, ML, Deep Learning and Scraping**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-B7178C?style=flat-square&logoColor=white)
+![Grad--CAM](https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat-square&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-3B5998?style=flat-square&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,6 +100,7 @@ motto: "Ship it, measure it, improve it."
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -127,12 +133,22 @@ Complete data pipeline: OpenData health ingestion, predictive ER demand modeling
 <tr>
 <td width="50%" valign="top">
 
+### 🫁 Zoidberg 2.0 — Pneumonia Detection
+Deep learning medical diagnostic system for **pneumonia detection** from chest X-rays. Custom CNN and transfer learning (VGG16/ResNet50). Complete ML pipeline with PCA preprocessing, baseline model comparison, interpretability (SHAP/Grad-CAM) and interactive performance dashboard.
+
+`Python` `PyTorch` `Scikit-learn` `OpenCV` `SHAP` `Grad-CAM` `Streamlit` `Jupyter`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 ML Pipelines — Churn and Real Estate
 ML pipelines for **client churn prediction** and **real estate price estimation**. Model optimization (XGBoost, LightGBM, Random Forest, CatBoost) with SMOTE class balancing, hyperparameter tuning and SHAP interpretability.
 
 `Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `SHAP` `Plotly`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🕵️ Multi-Agent System
@@ -141,8 +157,6 @@ Distributed multi-agent system with **autonomous auctions**, intelligent bidding
 `JADE Framework` `Java` `FIPA-ACL` `Java Swing`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🍽️ RestaurantOS
@@ -151,6 +165,8 @@ Restaurant ordering platform with **QR code ordering**, secure Stripe payments a
 `Next.js 14` `TypeScript` `Tailwind CSS` `Radix UI` `Stripe` `Neon DB` `NextAuth.js`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform
@@ -159,9 +175,7 @@ Full e-commerce app: client storefront (cart, Stripe checkout, filters) + admin 
 `Next.js` `React` `TypeScript` `Prisma ORM` `Tailwind CSS` `Zustand` `Vercel`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 ### 🏙️ Smart City — Database Design
 Complete SQL and NoSQL database design and implementation including UML modeling, relational schema and complex queries. Performance comparison between relational and document-oriented (MongoDB) models with result analysis.
