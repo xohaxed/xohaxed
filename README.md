@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=xohaxed&fontSize=70&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Mohamed%20Timadjer&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Data%20%26%20ML%20%E2%80%A2%20System%20Architect&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+systems+%F0%9F%9A%80;Crafting+clean+%26+efficient+code+%E2%9C%A8;Turning+ideas+into+production+software+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=50&lines=Full-Stack+%7C+Angular+%E2%80%A2+Next.js+%E2%80%A2+Symfony;Data+Engineering+%7C+ML+%7C+XGBoost+%E2%80%A2+Prophet;System+Design+%7C+Docker+%E2%80%A2+GraphQL+%E2%80%A2+PostgreSQL;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=xohaxed&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/xohaxed)
 [![GitHub Followers](https://img.shields.io/github/followers/xohaxed?style=for-the-badge&color=238636&labelColor=0d1117&logo=github)](https://github.com/xohaxed?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/xohaxed?style=for-the-badge&color=e3b341&labelColor=0d1117&logo=github)](https://github.com/xohaxed?tab=repositories)
@@ -19,27 +16,23 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 ```yaml
-name: xohaxed
-role: Senior Software Engineer
-location: 🌍 Earth
-currently_working_on: Building awesome things
-learning: Always expanding my skillset
-open_to: Collaborations on impactful projects
-fun_fact: I debug with print statements and I'm not ashamed 😄
+name: Mohamed Timadjer
+handle: xohaxed
+focus: Full-Stack Development • Data Science & ML • Distributed Systems
+stack: Angular, Next.js, Symfony, Python, Java, TypeScript
+interests: Clean Architecture, Performance, Open Source
+motto: "Ship it, measure it, improve it."
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
-
-- 🔭 Currently working on **production-grade systems**
-- 🌱 Always learning & growing as an engineer
-- 👯 Open to collaborating on **open source projects**
-- 💬 Ask me about **software architecture, clean code & best practices**
-- ⚡ Passionate about **performance, scalability & developer experience**
-
-<br clear="both"/>
+- 🔭 &nbsp;Building **full-stack platforms** with modern frameworks & clean architecture
+- 🧠 &nbsp;Deep into **Machine Learning pipelines** — XGBoost, LightGBM, SHAP, Prophet
+- 🏗️ &nbsp;Designing **distributed multi-agent systems** & real-time architectures
+- 🐳 &nbsp;Everything runs in **Docker** — containerized, reproducible, production-ready
+- 💬 &nbsp;Ask me about **GraphQL, REST APIs, data pipelines & system design**
+- ⚡ &nbsp;Fun fact: I won a Hackathon by optimizing vaccine strategy with genetic algorithms
 
 ---
 
@@ -47,82 +40,165 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Frontend**
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
+
+**Backend & APIs**
+
+![Symfony](https://img.shields.io/badge/Symfony_7-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+**Data & ML**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-B7178C?style=flat-square&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00E5A0?style=flat-square&logo=neon&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ Time Manager
+Full-stack time management app with **facial biometric authentication**. 3-tier architecture with GraphQL API, real-time multi-role dashboards, team management & report generation. Fully containerized with Docker.
+
+`Angular 19` `Symfony 7.3` `GraphQL` `Python` `PostgreSQL` `Docker` `JWT` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 💉 Vaccine Strategy Optimization — Hackathon
+Complete data pipeline: OpenData health ingestion, predictive ER demand modeling & optimal resource allocation via genetic algorithms. Interactive decision dashboard estimating **€133M potential savings**.
+
+`Python` `XGBoost` `Prophet` `PyGAD` `Plotly` `ETL / Data Engineering`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ML Pipelines — Churn & Real Estate
+ML pipelines for **client churn prediction** & **real estate price estimation**. Model optimization (XGBoost, LightGBM, Random Forest, CatBoost) with SMOTE class balancing, hyperparameter tuning & SHAP interpretability.
+
+`Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `SHAP` `Plotly`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Multi-Agent System
+Distributed multi-agent system with **autonomous auctions**, intelligent bidding strategies & mobile inter-platform agents with weighted multi-criteria decision making. FIPA-ACL real-time communication & GUI monitoring.
+
+`JADE Framework` `Java` `FIPA-ACL` `Java Swing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ RestaurantOS
+Restaurant ordering platform with **QR code ordering**, secure Stripe payments & real-time order management. Modern UX with accessible component library.
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `Radix UI` `Stripe` `Neon DB` `NextAuth.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+Full e-commerce app: client storefront (cart, Stripe checkout, filters) + admin dashboard (product/order management, stats, PDF invoice generation). RESTful API with auth & responsive design.
+
+`Next.js` `React` `TypeScript` `Prisma ORM` `Tailwind CSS` `Zustand` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🏙️ Smart City — Database Design
+Complete SQL & NoSQL database design & implementation including UML modeling, relational schema & complex queries. Performance comparison between relational and document-oriented (MongoDB) models with result analysis.
+
+`SQL3` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xohaxed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xohaxed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=xohaxed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=e3b341&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xohaxed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xohaxed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xohaxed&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e3b341&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img width="80%" src="https://streak-stats.demolab.com/?user=xohaxed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=e3b341&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xohaxed&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e3b341&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="90%"/>
 </div>
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xohaxed&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xohaxed/xohaxed/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xohaxed/xohaxed/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/xohaxed/xohaxed/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=xohaxed&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="85%"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 &nbsp;Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+### 💡 &nbsp;Dev Quote of the Day  
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -130,14 +206,8 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <div align="center">
 
-### 🤝 &nbsp;Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
 
-<a href="https://github.com/xohaxed">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+**⭐ If you like my work, consider giving a star!**
 
 </div>
